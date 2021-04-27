@@ -1,0 +1,138 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+/* ****************** */
+/* header start */
+.block-row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.block-col{
+    padding-left: 0;
+    padding-right: 0;
+}
+.header-nav-link{
+ font-size: 12px;
+ color: #191919;
+ text-transform: uppercase;
+ margin-left: 32px;   
+}
+.header-nav-link:hover{
+    color: #228e4b;
+    text-decoration: none;
+}
+.header{
+    background: #fff;
+}
+/* ********************* */
+/* section start */
+.block-roww{
+   background: #323232; 
+ 
+}
+.header h1{
+    color: #ffffff;
+    font-size: 61px;
+    text-align: center;
+    padding-top: 70px;
+   
+}
+.header   p{
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+   padding-bottom: 70px;
+}
+/* ********************* */
+/* section start */
+.section{
+    background: #007d2f;
+    padding: 60px 137px;
+}
+.section i{
+  color: #fff;
+  font-size: 50px;
+    
+}
+.section h3{
+    color: #fff;
+    font-size: 18px;
+    
+  
+}
+.section p{
+    color: #fff;
+    font-size: 12px;
+   
+}
+main .img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+.qw h1{
+    color: #171717;
+    font-size: 30px;
+    margin-top: 60px;
+}
+.qw{
+    background: #f5f5f5;
+}
+.qw p{
+    color: #787878;
+    font-size: 16px;
+    margin-top: 35px;
+}
+.qw img{
+    margin-top: 39px;
+}
+.ar h1{
+    margin-top: 105px;
+    font-size: 30px;
+    color: #1d1d1d;
+}
+.ar p{
+    margin-top:39px ;
+    color: #787878;
+    font-size: 16px;
+}
+.ar button{
+    margin-top: 40px;
+    background: #007d2f;
+    border: solid #007d2f;
+    padding: 18px 42px;
+    color: #fff;
+    font-size: 20px;
+    
+}
+.ar{
+    padding-bottom: 101px;
+}
+
+
+
+.footer1{
+    background: #141414;
+    padding-bottom: 91px;
+    padding-top: 109px;
+}
+.footer1 h4{
+    color: #d1d1d1;
+    font-size:18px ;
+    
+}
+.footer1 p{
+    color:#7f7f7f ;
+    font-size: 15px;
+}
+.footer1 a{
+    color: #7f7f7f;
+    font-size: 15px;
+    text-decoration: none;
+}

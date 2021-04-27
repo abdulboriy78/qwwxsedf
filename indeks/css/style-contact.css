@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.header-nav-link{
+    font-size: 12px;
+    color: #191919;
+    text-transform: uppercase;
+    margin-left: 32px;   
+}
+.header-nav-link:hover{
+    color: #228e4b;
+    text-decoration: none;
+}  
+.header{
+    background: #ffffff;
+} 
+.section{
+    background: #f5f5f5;
+    padding-top: 102px;
+    
+    padding-bottom: 101px;
+}
+.section .asu h1{
+    font-size:30px ;
+    color:#171717;
+    
+}
+.section .qwe  {
+    color:#787878 ;
+    font-size:16px ;
+    margin-top: 45px;
+}
+.section  .qwe1 {
+    color: #787878 ;
+    font-size:16px ;
+    margin-top: 37px;
+}
+.section .qwe2{
+    color: #787878 ;
+    font-size:16px ;
+}
+.section .qwe3{
+    color: #787878 ;
+    font-size:16px ;
+}
+.section .qwe4{
+    color: #787878 ;
+    font-size:16px ;
+}
+.section span{
+    color: #171717;
+    font-weight: 500;
+}
+.section form input, 
+.section form textarea{
+    font-size: 15px;
+ 
+    color: #787878;
+padding: 18px 15px;
+border: none;
+width: 100%;
+margin-bottom: 29px;
+outline: none;
+}
+.footer1{
+    background: #141414;
+    padding-bottom: 91px;
+    padding-top: 109px;
+}
+.footer1 h4{
+    color: #d1d1d1;
+    font-size:18px ;
+    
+}
+.footer1 p{
+    color:#7f7f7f ;
+    font-size: 15px;
+}
+.footer1 a{
+    color: #7f7f7f;
+    font-size: 15px;
+    text-decoration: none;
+}
+.anda a:hover{
+    color: chartreuse;
+}
